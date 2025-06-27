@@ -11,7 +11,7 @@
 
 ### 🌍 About Me
 
-💡 I'm Morest Burawa, a passionate ALX software engineering student focused on using **data to empower business decisions** that drive growth, efficiency, and customer satisfaction.
+💡 I'm Morest Burawa, a passionate ALX software engineering and Data Sciences student focused on using **data to empower business decisions** that drive growth, efficiency, and customer satisfaction.
 
 🚀 My journey in technology began with curiosity, but quickly evolved into a mission:  
 **"Beyond Data Lies Sight to Spark Decisions, Igniting Growth."**
