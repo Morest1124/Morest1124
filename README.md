@@ -9,7 +9,7 @@
 
 ## 🌍 About Me
 
-💡 I'm **Morest Burawa**, a passionate ALX software engineer and student focused on using code to empower businesses that drive **growth**, **efficiency**, and **customer satisfaction**.
+💡 I'm **Morest Burawa**, a passionate software engineer  focused on using code to empower businesses that drive **growth**, **efficiency**, and **customer satisfaction**.
 
 🚀 My journey in technology began with curiosity, but quickly evolved into a mission:
 > "Building Elegant and Powerful Applications that Transform Ideas into Reality."
